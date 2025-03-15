@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock_quantity,created_at
+1,Money Wear,Toys,234.12,238,2023-08-23 13:17:46
+2,Remain Item,Sports,115.5,240,2024-06-17 08:50:24
+3,True Gadget,Electronics,107.63,90,2025-01-15 02:58:29
+4,Southern Gadget,Clothing,108.82,239,2022-05-27 14:34:01
+5,Resource Wear,Clothing,103.66,423,2021-03-05 14:09:38
+6,Skin Item,Toys,486.96,61,2022-09-28 14:20:25
+7,Artist Wear,Beauty,202.92,293,2022-01-17 13:23:21
+8,Shoulder Tool,Electronics,323.72,341,2023-09-24 04:22:21
+9,Onto Device,Sports,126.16,495,2023-06-26 05:01:09
+10,Enter Wear,Home & Kitchen,194.93,468,2022-01-11 19:05:02
+11,Purpose Tool,Sports,389.21,16,2022-06-10 10:46:22
+12,Out Accessory,Electronics,69.23,211,2021-06-23 22:53:48
+13,Defense Wear,Books,108.99,344,2022-06-17 12:58:37
+14,Face Wear,Toys,269.8,239,2022-10-06 13:31:51
+15,Factor Wear,Clothing,23.43,210,2021-03-19 17:14:32
+16,Perhaps Gadget,Books,488.35,192,2021-01-16 04:19:58
+17,Perform Tool,Sports,125.79,193,2022-08-05 15:08:44
+18,Seek Tool,Sports,128.12,436,2020-08-11 09:30:18
+19,End Device,Books,276.85,385,2024-03-03 13:28:55
+20,Get Accessory,Books,498.81,180,2020-11-01 11:00:49
+21,Fish Item,Home & Kitchen,186.8,261,2020-05-11 19:37:51
+22,Clearly Device,Books,237.14,108,2023-04-08 10:15:51
+23,Service Wear,Clothing,342.65,95,2024-10-08 18:12:59
+24,Break Wear,Electronics,318.88,362,2023-06-11 00:05:28
+25,Themselves Item,Toys,126.76,328,2022-12-07 12:42:02
+26,Too Item,Beauty,28.91,36,2023-12-31 02:06:36
+27,Generation Accessory,Sports,470.08,130,2022-01-15 20:26:27
+28,Space Item,Sports,499.24,194,2022-11-30 06:27:00
+29,Daughter Wear,Beauty,126.9,371,2021-08-12 06:42:41
+30,Cell Tool,Electronics,32.84,58,2020-03-14 02:40:30
+31,Pick Device,Books,472.94,431,2023-02-28 19:30:24
+32,Cover Tool,Home & Kitchen,294.81,186,2024-07-29 13:14:16
+33,Cup Wear,Sports,432.32,115,2022-04-11 07:39:33
+34,Myself Device,Electronics,386.33,12,2025-03-04 00:13:55
+35,Get Device,Clothing,338.1,61,2023-08-23 13:14:33
+36,Recognize Device,Clothing,152.89,302,2020-06-16 16:48:04
+37,Fast Gadget,Toys,253.48,6,2025-02-07 18:57:11
+38,Short Wear,Clothing,426.38,301,2022-09-24 15:19:36
+39,Save Device,Sports,436.32,115,2023-11-13 20:01:57
+40,All Wear,Toys,405.93,122,2024-12-22 10:05:38
+41,Cover Gadget,Toys,483.24,364,2023-02-27 22:15:21
+42,Couple Device,Home & Kitchen,422.52,45,2020-12-10 13:28:35
+43,Present Gadget,Beauty,287.48,314,2022-01-18 18:46:35
+44,Member Tool,Clothing,256.58,379,2022-10-04 23:12:06
+45,Order Item,Books,304.47,211,2024-06-08 05:15:14
+46,By Accessory,Home & Kitchen,35.83,399,2021-08-02 02:44:26
+47,Light Item,Clothing,382.58,289,2022-12-03 12:33:30
+48,Pm Tool,Electronics,15.04,300,2024-10-11 22:53:23
+49,Suddenly Wear,Home & Kitchen,27.71,196,2020-03-17 11:34:42
+50,Especially Gadget,Clothing,229.36,140,2021-02-28 21:55:29
+51,About Device,Beauty,245.24,353,2025-02-18 18:52:53
+52,Full Item,Beauty,470.83,355,2023-07-20 16:01:49
+53,Less Accessory,Sports,337.53,477,2021-11-19 06:00:04
+54,Much Item,Books,24.14,421,2022-07-17 23:44:10
+55,Well Device,Sports,463.85,248,2022-06-05 05:22:53
+56,Language Accessory,Books,488.43,428,2022-09-30 02:53:53
+57,Away Wear,Electronics,203.06,199,2023-11-02 14:04:23
+58,Much Gadget,Electronics,449.98,417,2021-09-03 21:40:10
+59,Resource Accessory,Toys,298.95,246,2023-06-03 00:43:47
+60,Job Wear,Electronics,353.33,330,2024-07-17 13:46:36
+61,Husband Item,Sports,259.85,399,2023-11-19 11:44:14
+62,Song Accessory,Home & Kitchen,53,40,2020-06-15 23:47:00
+63,Fear Accessory,Clothing,486.88,197,2023-05-16 18:51:03
+64,Water Item,Beauty,154.93,219,2023-04-18 09:20:46
+65,Kitchen Accessory,Home & Kitchen,484.79,321,2023-09-15 20:52:59
+66,Cut Tool,Sports,63.64,329,2020-04-12 21:07:57
+67,National Accessory,Home & Kitchen,428.89,385,2024-12-09 20:02:29
+68,Finally Wear,Clothing,15.89,404,2024-02-24 11:46:25
+69,What Device,Toys,356.38,339,2021-11-28 06:01:53
+70,Back Device,Sports,82.02,321,2022-07-13 13:54:26
+71,Several Tool,Electronics,310.42,138,2021-10-11 13:06:15
+72,Administration Device,Sports,351.56,253,2021-12-21 15:32:35
+73,Project Item,Home & Kitchen,418.09,189,2021-12-21 14:07:33
+74,Anything Device,Clothing,206.84,228,2024-08-12 17:29:14
+75,Person Accessory,Electronics,296.7,415,2024-09-25 11:11:58
+76,Old Tool,Home & Kitchen,110.78,4,2025-01-09 23:19:36
+77,Add Tool,Clothing,53.08,136,2023-08-19 22:41:27
+78,Style Tool,Clothing,40.31,10,2024-07-25 17:54:32
+79,Energy Tool,Books,326.6,168,2022-05-18 20:57:27
+80,In Wear,Home & Kitchen,428.08,248,2020-09-29 01:35:07
+81,Hit Wear,Books,332.92,98,2022-01-22 00:42:22
+82,Eight Gadget,Home & Kitchen,166.12,29,2025-01-18 00:39:10
+83,Particular Item,Books,74.73,27,2020-03-08 12:16:11
+84,Learn Wear,Books,156.3,285,2024-09-09 10:31:26
+85,Understand Tool,Clothing,474.74,223,2021-01-20 16:09:22
+86,Save Wear,Toys,157.36,292,2023-07-25 22:35:24
+87,Especially Wear,Clothing,416.31,237,2022-08-04 02:21:08
+88,Unit Gadget,Clothing,184.87,48,2022-08-13 03:59:04
+89,Author Gadget,Sports,65.77,426,2025-02-09 18:13:01
+90,Often Accessory,Books,218.63,332,2022-06-14 06:59:33
+91,Day Accessory,Books,129.19,68,2022-11-16 09:19:30
+92,Girl Tool,Electronics,69.94,37,2020-04-25 16:31:12
+93,Past Wear,Books,477.8,335,2023-08-28 01:59:29
+94,Environment Accessory,Toys,352.88,458,2022-04-06 06:11:42
+95,Here Device,Beauty,389.63,479,2021-11-10 20:16:37
+96,Against Device,Books,66.85,244,2023-04-30 18:40:09
+97,All Wear,Toys,496.07,385,2022-08-15 10:12:15
+98,Include Gadget,Clothing,416.28,288,2021-06-28 17:52:04
+99,Address Device,Electronics,315.38,422,2021-05-29 22:26:06
+100,Hope Tool,Toys,78.27,60,2021-11-20 07:02:04
